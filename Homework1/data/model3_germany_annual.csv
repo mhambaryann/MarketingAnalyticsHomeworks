@@ -1,0 +1,9 @@
+year,t,registrations,cumulative,complete_year,primary_source,secondary_sources,cross_checked
+2019,1,9013,9013,TRUE,KBA,best-selling-cars.com (2019 full-year electric),NO - single secondary source; verify on kba.de
+2020,2,15202,24215,TRUE,KBA,best-selling-cars.com (2020 full-year electric),NO - single secondary source; verify on kba.de
+2021,3,35262,59477,TRUE,KBA,autohub.de (Statista graphic); driveteslacanada.ca; insideevs.de,YES
+2022,4,33841,93318,TRUE,KBA,best-selling-cars.com (2022 full-year electric); insideevs.de,YES
+2023,5,15865,109183,TRUE,KBA,insideevs.de; leinetal24.de; echo24.de,YES
+2024,6,7012,116195,TRUE,KBA,best-selling-cars.com (2024 full-year electric); teslabs.de,YES
+2025,7,6855,123050,TRUE,KBA,best-selling-cars.com (2025 full-year electric),NO - single secondary source; verify on kba.de
+2026 (Jan-Aug),,10557,,FALSE,KBA,eletric-vehicles.com (Oct 2026 article citing KBA model data),NO - partial year; do not use in main fit

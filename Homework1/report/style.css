@@ -1,0 +1,18 @@
+body { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 10.5pt; line-height: 1.45; color: #111; max-width: none; margin: 0; padding: 0; }
+h1 { font-size: 17pt; border-bottom: 1px solid #999; padding-bottom: 3px; margin-top: 22px; page-break-after: avoid; }
+h2 { font-size: 13pt; margin-top: 16px; page-break-after: avoid; }
+header h1.title { font-size: 21pt; border: none; margin-bottom: 2px; }
+p.subtitle { font-size: 12pt; color: #444; margin-top: 0; }
+p.author, p.date { margin: 2px 0; color: #444; }
+table { border-collapse: collapse; width: 100%; font-size: 8.6pt; margin: 8px 0 12px 0; page-break-inside: auto; }
+tr { page-break-inside: avoid; }
+th, td { border: 1px solid #bbb; padding: 3px 5px; vertical-align: top; word-break: break-word; }
+th { background: #eef2f7; text-align: left; }
+blockquote { border-left: 3px solid #8aa; margin: 8px 0; padding: 2px 12px; background: #f6f9fb; }
+code { font-size: 9.5pt; }
+img { max-width: 100%; }
+figure { margin: 10px 0; page-break-inside: avoid; text-align: center; }
+figcaption { font-size: 9pt; color: #444; text-align: left; }
+a { color: #1a4f8b; text-decoration: none; word-break: break-all; }
+ul { margin-top: 4px; }
+li { margin-bottom: 3px; }
